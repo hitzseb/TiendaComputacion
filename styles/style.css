@@ -1,0 +1,14 @@
+section{
+    margin-top: 4vh;
+}
+h3{
+    padding: 2vh;
+}
+#ventas{
+    display: inline-flex;
+}
+#nueva-venta{
+    float: right;
+    margin: 2vh !important;
+    color: white;
+}
